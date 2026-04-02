@@ -90,9 +90,9 @@ The case study section will be expanded incrementally to include:
 - validation scenarios
 - change history and lessons learned
 
-## Related Sections
+## Related Pages
 
-- `discipline/what-is-systems-engineering.md`
-- `lifecycle/lifecycle-overview.md`
-- `requirements/requirements-engineering-overview.md`
-- `architecture/architecture-principles.md`
+- [What is Systems Engineering](../discipline/what-is-systems-engineering.md)
+- [Lifecycle Overview](../lifecycle/lifecycle-overview.md)
+- [Requirements Engineering Overview](../requirements/requirements-engineering-overview.md)
+- [Architecture Principles](../architecture/architecture-principles.md)

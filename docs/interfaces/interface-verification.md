@@ -154,9 +154,9 @@ Interface verification depends on and contributes to:
 
 ## Related Pages
 
-- `interfaces/interface-control-documents.md`
-- `interfaces/interface-management-overview.md`
-- `integration/interface-control.md`
-- `vv/verification-strategy.md`
-- `vv/test-levels.md`
-- `case-study/interface-definition.md`
+- [Interface Control Documents](../interfaces/interface-control-documents.md)
+- [Interface Management Overview](../interfaces/interface-management-overview.md)
+- [Interface Control (Integration)](../integration/interface-control.md)
+- [Verification Strategy](../vv/verification-strategy.md)
+- [Test Levels](../vv/test-levels.md)
+- [Interface Definition (Case Study)](../case-study/interface-definition.md)

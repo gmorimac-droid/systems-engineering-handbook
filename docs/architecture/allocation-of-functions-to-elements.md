@@ -103,9 +103,9 @@ Function allocation is not the end of architecture work. It drives the next laye
 
 ## Related Pages
 
-- `architecture/logical-architecture.md`
-- `architecture/physical-architecture.md`
-- `architecture/interface-architecture.md`
-- `requirements/requirements-allocation.md`
-- `case-study/architecture-baseline.md`
-- `case-study/requirements-baseline.md`
+- [Logical Architecture](../architecture/logical-architecture.md)
+- [Physical Architecture](../architecture/physical-architecture.md)
+- [Interface Architecture](../architecture/interface-architecture.md)
+- [Requirements Allocation](../requirements/requirements-allocation.md)
+- [Architecture Baseline](../case-study/architecture-baseline.md)
+- [Requirements Baseline](../case-study/requirements-baseline.md)

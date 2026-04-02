@@ -65,9 +65,9 @@ A requirement without traceability is difficult to justify. A design without tra
 
 In the AIIDS case study, requirements will connect the inspection mission to concrete system expectations. Examples will eventually include endurance, communication range, payload performance, geolocation accuracy, safety behavior, environmental operability, and operator interaction constraints. These requirements will then be allocated across airborne, ground, and communication elements.
 
-## Related Sections
+## Related Pages
 
-- `requirements/stakeholder-needs.md`
-- `requirements/concept-of-operations.md`
-- `requirements/requirements-traceability.md`
-- `case-study/requirements-baseline.md`
+- [Stakeholder Needs](../requirements/stakeholder-needs.md)
+- [Concept of Operations](../requirements/concept-of-operations.md)
+- [Requirements Traceability](../requirements/requirements-traceability.md)
+- [Requirements Baseline](../case-study/requirements-baseline.md)

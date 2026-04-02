@@ -198,9 +198,9 @@ This baseline represents an early but structured architecture definition suitabl
 
 ## Related Pages
 
-- `architecture/logical-architecture.md`
-- `architecture/physical-architecture.md`
-- `architecture/interface-architecture.md`
-- `architecture/allocation-of-functions-to-elements.md`
-- `case-study/interface-definition.md`
-- `case-study/requirements-baseline.md`
+- [Logical Architecture](../architecture/logical-architecture.md)
+- [Physical Architecture](../architecture/physical-architecture.md)
+- [Interface Architecture](../architecture/interface-architecture.md)
+- [Allocation of Functions to Elements](../architecture/allocation-of-functions-to-elements.md)
+- [Interface Definition (Case Study)](../case-study/interface-definition.md)
+- [Requirements Baseline](../case-study/requirements-baseline.md)

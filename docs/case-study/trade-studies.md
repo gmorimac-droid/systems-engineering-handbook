@@ -68,5 +68,5 @@ Provides balance between control and automation, aligned with safety and regulat
 
 ## Related Pages
 
-- `analysis/trade-studies.md`
-- `analysis/decision-analysis.md`
+- [Trade Studies](../analysis/trade-studies.md)
+- [Decision Analysis](../analysis/decision-analysis.md)

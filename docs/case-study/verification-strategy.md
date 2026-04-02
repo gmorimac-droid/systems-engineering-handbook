@@ -302,8 +302,8 @@ The strategy must consider the following risks:
 
 ## Related Pages
 
-- `vv/test-philosophy.md`
-- `vv/test-levels.md`
-- `vv/verification-cross-reference-matrix.md`
-- `interfaces/interface-verification.md`
-- `case-study/requirements-baseline.md`
+- [Test Philosophy](../vv/test-philosophy.md)
+- [Test Levels](../vv/test-levels.md)
+- [Verification Cross Reference Matrix](../vv/verification-cross-reference-matrix.md)
+- [Interface Verification](../interfaces/interface-verification.md)
+- [Requirements Baseline](../case-study/requirements-baseline.md)

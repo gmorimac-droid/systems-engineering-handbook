@@ -134,8 +134,8 @@ Typical weaknesses include:
 
 ## Related Pages
 
-- `vv/test-philosophy.md`
-- `vv/verification-strategy.md`
-- `interfaces/interface-verification.md`
-- `integration/integration-readiness.md`
-- `case-study/verification-strategy.md`
+- [Test Philosophy](../vv/test-philosophy.md)
+- [Verification Strategy](../vv/verification-strategy.md)
+- [Interface Verification](../interfaces/interface-verification.md)
+- [Integration Readiness](../integration/integration-readiness.md)
+- [Verification Strategy (Case Study)](../case-study/verification-strategy.md)

@@ -73,7 +73,7 @@ nav:
   - The Discipline:
       - What is Systems Engineering *: discipline/what-is-systems-engineering.md
       - History and Rationale: discipline/history-and-rationale.md
-      - Systems Thinking *: discipline/systems-thinking.md
+      - Systems Thinking: discipline/systems-thinking.md
       - Complexity and Emergence: discipline/complexity-and-emergence.md
       - Role of the Systems Engineer: discipline/role-of-the-systems-engineer.md
       - Competencies Framework: discipline/competencies-framework.md
@@ -81,7 +81,7 @@ nav:
 
   - Lifecycle:
       - Lifecycle Overview *: lifecycle/lifecycle-overview.md
-      - Mission, Concept and Need *: lifecycle/mission-concept-and-need.md
+      - Mission, Concept and Need: lifecycle/mission-concept-and-need.md
       - Stakeholder Analysis: lifecycle/stakeholder-analysis.md
       - Concept Exploration: lifecycle/concept-exploration.md
       - System Definition: lifecycle/system-definition.md
@@ -93,8 +93,8 @@ nav:
 
   - Requirements Engineering:
       - Requirements Engineering Overview *: requirements/requirements-engineering-overview.md
-      - Stakeholder Needs *: requirements/stakeholder-needs.md
-      - Concept of Operations *: requirements/concept-of-operations.md
+      - Stakeholder Needs: requirements/stakeholder-needs.md
+      - Concept of Operations: requirements/concept-of-operations.md
       - Operational Scenarios: requirements/operational-scenarios.md
       - Requirements Elicitation: requirements/requirements-elicitation.md
       - Requirements Analysis: requirements/requirements-analysis.md
@@ -112,14 +112,14 @@ nav:
 
   - System Architecture:
       - Architecture Principles *: architecture/architecture-principles.md
-      - System Context *: architecture/system-context.md
-      - System Boundaries *: architecture/system-boundaries.md
+      - System Context: architecture/system-context.md
+      - System Boundaries: architecture/system-boundaries.md
       - Logical Architecture *: architecture/logical-architecture.md
       - Functional Architecture: architecture/functional-architecture.md
       - Physical Architecture: architecture/physical-architecture.md
       - Product Breakdown Structure: architecture/product-breakdown-structure.md
       - Work Breakdown vs System Breakdown: architecture/work-breakdown-vs-system-breakdown.md
-      - Interface Architecture *: architecture/interface-architecture.md
+      - Interface Architecture: architecture/interface-architecture.md
       - Architectural Views and Viewpoints: architecture/architectural-views-and-viewpoints.md
       - Allocation of Functions to Elements *: architecture/allocation-of-functions-to-elements.md
       - Architecture Evaluation: architecture/architecture-evaluation.md
@@ -127,8 +127,8 @@ nav:
       - Architecture Baselines: architecture/architecture-baselines.md
 
   - Modeling and MBSE:
-      - MBSE Overview *: modeling/mbse-overview.md
-      - Document-based vs Model-based *: modeling/document-based-vs-model-based.md
+      - MBSE Overview: modeling/mbse-overview.md
+      - Document-based vs Model-based: modeling/document-based-vs-model-based.md
       - Abstraction and Model Boundaries: modeling/abstraction-and-model-boundaries.md
       - Model Types: modeling/model-types.md
       - SysML Introduction: modeling/sysml-introduction.md
@@ -154,7 +154,7 @@ nav:
       - Technical Performance Measures: analysis/technical-performance-measures.md
 
   - Integration:
-      - Integration Strategy *: integration/integration-strategy.md
+      - Integration Strategy: integration/integration-strategy.md
       - Integration Readiness *: integration/integration-readiness.md
       - Subsystem Integration: integration/subsystem-integration.md
       - Interface Control *: integration/interface-control.md

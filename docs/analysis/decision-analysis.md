@@ -51,5 +51,5 @@ Decision analysis ensures:
 
 ## Related Pages
 
-- `analysis/trade-studies.md`
-- `artifacts/decision-record-template.md`
+- [Trade Studies](../analysis/trade-studies.md)
+- [Decision Record Template](../artifacts/decision-record-template.md)

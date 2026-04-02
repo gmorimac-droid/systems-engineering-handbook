@@ -19,6 +19,7 @@ Logical architecture represents system behavior independent of physical implemen
 - supports verification planning
 
 ## Related Pages
-- `requirements/requirements-traceability.md`
-- `architecture/allocation-of-functions-to-elements.md`
-- `case-study/architecture-baseline.md`
+
+- [Requirements Traceability](../requirements/requirements-traceability.md)
+- [Allocation of Functions to Elements](../architecture/allocation-of-functions-to-elements.md)
+- [Architecture Baseline](../case-study/architecture-baseline.md)

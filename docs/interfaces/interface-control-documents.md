@@ -190,9 +190,9 @@ ICD maturity should evolve with the project lifecycle. Early baselines may descr
 
 ## Related Pages
 
-- `interfaces/interface-management-overview.md`
-- `interfaces/internal-interfaces.md`
-- `interfaces/external-interfaces.md`
-- `interfaces/interface-verification.md`
-- `architecture/interface-architecture.md`
-- `case-study/interface-definition.md`
+- [Interface Management Overview](../interfaces/interface-management-overview.md)
+- [Internal Interfaces](../interfaces/internal-interfaces.md)
+- [External Interfaces](../interfaces/external-interfaces.md)
+- [Interface Verification](../interfaces/interface-verification.md)
+- [Interface Architecture](../architecture/interface-architecture.md)
+- [Interface Definition (Case Study)](../case-study/interface-definition.md)

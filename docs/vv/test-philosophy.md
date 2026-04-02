@@ -133,8 +133,8 @@ Typical weaknesses include:
 
 ## Related Pages
 
-- `vv/test-levels.md`
-- `vv/verification-strategy.md`
-- `vv/acceptance-criteria.md`
-- `vv/verification-cross-reference-matrix.md`
-- `case-study/verification-strategy.md`
+- [Test Levels](../vv/test-levels.md)
+- [Verification Strategy](../vv/verification-strategy.md)
+- [Acceptance Criteria](../vv/acceptance-criteria.md)
+- [Verification Cross Reference Matrix](../vv/verification-cross-reference-matrix.md)
+- [Verification Strategy (Case Study)](../case-study/verification-strategy.md)

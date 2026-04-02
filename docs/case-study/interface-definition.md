@@ -149,8 +149,8 @@ This page represents an early controlled interface baseline. It is not yet a ful
 
 ## Related Pages
 
-- `architecture/interface-architecture.md`
-- `interfaces/interface-control-documents.md`
-- `interfaces/interface-verification.md`
-- `integration/interface-control.md`
-- `case-study/architecture-baseline.md`
+- [Interface Architecture](../architecture/interface-architecture.md)
+- [Interface Control Documents](../interfaces/interface-control-documents.md)
+- [Interface Verification](../interfaces/interface-verification.md)
+- [Interface Control (Integration)](../integration/interface-control.md)
+- [Architecture Baseline](../case-study/architecture-baseline.md)
