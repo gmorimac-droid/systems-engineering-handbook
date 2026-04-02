@@ -1,0 +1,280 @@
+site_name: Systems Engineering Handbook
+site_description: Professional handbook for Systems Engineering with an autonomous infrastructure inspection drone case study
+site_url: https://example.github.io/systems-engineering-handbook/
+repo_url: https://github.com/example/systems-engineering-handbook
+repo_name: systems-engineering-handbook
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: indigo
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social: []
+  generator: false
+
+extra_css: []
+extra_javascript: []
+
+nav:
+  - Home: index.md
+
+  - Preface:
+      - Purpose of This Handbook: preface/purpose-of-this-handbook.md
+      - Intended Audience: preface/intended-audience.md
+      - How to Use This Site: preface/how-to-use-this-site.md
+      - Scope and Limitations: preface/scope-and-limitations.md
+      - Conventions and Notation: preface/conventions-and-notation.md
+
+  - The Discipline:
+      - What is Systems Engineering: discipline/what-is-systems-engineering.md
+      - History and Rationale: discipline/history-and-rationale.md
+      - Systems Thinking: discipline/systems-thinking.md
+      - Complexity and Emergence: discipline/complexity-and-emergence.md
+      - Role of the Systems Engineer: discipline/role-of-the-systems-engineer.md
+      - Competencies Framework: discipline/competencies-framework.md
+      - Relationship with Other Disciplines: discipline/relationship-with-other-disciplines.md
+
+  - Lifecycle:
+      - Lifecycle Overview: lifecycle/lifecycle-overview.md
+      - Mission, Concept and Need: lifecycle/mission-concept-and-need.md
+      - Stakeholder Analysis: lifecycle/stakeholder-analysis.md
+      - Concept Exploration: lifecycle/concept-exploration.md
+      - System Definition: lifecycle/system-definition.md
+      - Development and Integration: lifecycle/development-and-integration.md
+      - Verification and Validation Lifecycle: lifecycle/verification-and-validation-lifecycle.md
+      - Operations and Support: lifecycle/operations-and-support.md
+      - Evolution and Obsolescence: lifecycle/evolution-and-obsolescence.md
+      - Retirement and Disposal: lifecycle/retirement-and-disposal.md
+
+  - Requirements Engineering:
+      - Requirements Engineering Overview: requirements/requirements-engineering-overview.md
+      - Stakeholder Needs: requirements/stakeholder-needs.md
+      - Concept of Operations: requirements/concept-of-operations.md
+      - Operational Scenarios: requirements/operational-scenarios.md
+      - Requirements Elicitation: requirements/requirements-elicitation.md
+      - Requirements Analysis: requirements/requirements-analysis.md
+      - Functional Requirements: requirements/functional-requirements.md
+      - Performance Requirements: requirements/performance-requirements.md
+      - Interface Requirements: requirements/interface-requirements.md
+      - Constraints and Assumptions: requirements/constraints-and-assumptions.md
+      - Quality Attributes: requirements/quality-attributes.md
+      - Requirements Allocation: requirements/requirements-allocation.md
+      - Requirements Traceability: requirements/requirements-traceability.md
+      - Requirements Verification Methods: requirements/requirements-verification-methods.md
+      - Requirements Writing Guidelines: requirements/requirements-writing-guidelines.md
+      - Common Requirements Anti-patterns: requirements/common-requirements-anti-patterns.md
+      - Requirements Review Process: requirements/requirements-review-process.md
+
+  - System Architecture:
+      - Architecture Principles: architecture/architecture-principles.md
+      - System Context: architecture/system-context.md
+      - System Boundaries: architecture/system-boundaries.md
+      - Logical Architecture: architecture/logical-architecture.md
+      - Functional Architecture: architecture/functional-architecture.md
+      - Physical Architecture: architecture/physical-architecture.md
+      - Product Breakdown Structure: architecture/product-breakdown-structure.md
+      - Work Breakdown vs System Breakdown: architecture/work-breakdown-vs-system-breakdown.md
+      - Interface Architecture: architecture/interface-architecture.md
+      - Architectural Views and Viewpoints: architecture/architectural-views-and-viewpoints.md
+      - Allocation of Functions to Elements: architecture/allocation-of-functions-to-elements.md
+      - Architecture Evaluation: architecture/architecture-evaluation.md
+      - Design Rationale: architecture/design-rationale.md
+      - Architecture Baselines: architecture/architecture-baselines.md
+
+  - Modeling and MBSE:
+      - MBSE Overview: modeling/mbse-overview.md
+      - Document-based vs Model-based: modeling/document-based-vs-model-based.md
+      - Abstraction and Model Boundaries: modeling/abstraction-and-model-boundaries.md
+      - Model Types: modeling/model-types.md
+      - SysML Introduction: modeling/sysml-introduction.md
+      - Use Case Modeling: modeling/use-case-modeling.md
+      - Activity Modeling: modeling/activity-modeling.md
+      - Sequence Modeling: modeling/sequence-modeling.md
+      - Structural Modeling: modeling/structural-modeling.md
+      - Parametric Modeling: modeling/parametric-modeling.md
+      - Model Consistency: modeling/model-consistency.md
+      - Model Governance: modeling/model-governance.md
+      - Integrating Models and Documents: modeling/integrating-models-and-documents.md
+
+  - Engineering Analysis:
+      - Trade Studies: analysis/trade-studies.md
+      - Decision Analysis: analysis/decision-analysis.md
+      - Feasibility Analysis: analysis/feasibility-analysis.md
+      - Performance Analysis: analysis/performance-analysis.md
+      - Sensitivity Analysis: analysis/sensitivity-analysis.md
+      - Reliability Analysis: analysis/reliability-analysis.md
+      - Maintainability Analysis: analysis/maintainability-analysis.md
+      - Safety Analysis: analysis/safety-analysis.md
+      - Cost Analysis: analysis/cost-analysis.md
+      - Technical Performance Measures: analysis/technical-performance-measures.md
+
+  - Integration:
+      - Integration Strategy: integration/integration-strategy.md
+      - Integration Readiness: integration/integration-readiness.md
+      - Subsystem Integration: integration/subsystem-integration.md
+      - Interface Control: integration/interface-control.md
+      - Integration Risks: integration/integration-risks.md
+      - Defect Management: integration/defect-management.md
+      - Anomaly Resolution: integration/anomaly-resolution.md
+      - Lessons from Integration Failures: integration/lessons-from-integration-failures.md
+
+  - Verification and Validation:
+      - Verification and Validation Fundamentals: vv/verification-and-validation-fundamentals.md
+      - Verification Strategy: vv/verification-strategy.md
+      - Validation Strategy: vv/validation-strategy.md
+      - Qualification Approach: vv/qualification-approach.md
+      - Test Philosophy: vv/test-philosophy.md
+      - Test Levels: vv/test-levels.md
+      - Inspection, Analysis, Demonstration, Test: vv/inspection-analysis-demonstration-test.md
+      - Acceptance Criteria: vv/acceptance-criteria.md
+      - Verification Cross Reference Matrix: vv/verification-cross-reference-matrix.md
+      - Test Readiness Review: vv/test-readiness-review.md
+      - Anomaly Reporting: vv/anomaly-reporting.md
+      - Evidence and Compliance: vv/evidence-and-compliance.md
+
+  - Risk and Opportunity:
+      - Risk Management Framework: risk/risk-management-framework.md
+      - Risk Identification: risk/risk-identification.md
+      - Risk Analysis: risk/risk-analysis.md
+      - Likelihood and Impact: risk/likelihood-and-impact.md
+      - Mitigation Planning: risk/mitigation-planning.md
+      - Residual Risk: risk/residual-risk.md
+      - Opportunity Management: risk/opportunity-management.md
+      - FMEA Introduction: risk/fmea-introduction.md
+      - Fault Tree Analysis: risk/fault-tree-analysis.md
+      - Risk Register Governance: risk/risk-register-governance.md
+
+  - Configuration and Change:
+      - Configuration Management Principles: configuration/configuration-management-principles.md
+      - Baselines: configuration/baselines.md
+      - Configuration Items: configuration/configuration-items.md
+      - Version Identification: configuration/version-identification.md
+      - Change Control: configuration/change-control.md
+      - Change Impact Assessment: configuration/change-impact-assessment.md
+      - Configuration Control Board: configuration/ccb-configuration-control-board.md
+      - Release Management: configuration/release-management.md
+      - Audit and Status Accounting: configuration/audit-and-status-accounting.md
+
+  - Interface Management:
+      - Interface Management Overview: interfaces/interface-management-overview.md
+      - Internal Interfaces: interfaces/internal-interfaces.md
+      - External Interfaces: interfaces/external-interfaces.md
+      - Interface Control Documents: interfaces/interface-control-documents.md
+      - Interface Risks: interfaces/interface-risks.md
+      - Interface Verification: interfaces/interface-verification.md
+
+  - Quality and Reviews:
+      - Quality in Systems Engineering: quality/quality-in-systems-engineering.md
+      - Review Framework: quality/review-framework.md
+      - Technical Reviews: quality/technical-reviews.md
+      - Design Reviews: quality/design-reviews.md
+      - Maturity Assessment: quality/maturity-assessment.md
+      - Non-conformance Management: quality/non-conformance-management.md
+
+  - Operations and Support:
+      - Operability Considerations: operations-support/operability-considerations.md
+      - Maintainability and Supportability: operations-support/maintainability-and-supportability.md
+      - Logistics Considerations: operations-support/logistics-considerations.md
+      - Training and Human Factors: operations-support/training-and-human-factors.md
+      - Field Feedback: operations-support/field-feedback.md
+      - Sustainment Planning: operations-support/sustainment-planning.md
+      - Obsolescence Management: operations-support/obsolescence-management.md
+
+  - Governance:
+      - Decision Governance: governance/decision-governance.md
+      - Technical Authority: governance/technical-authority.md
+      - Review Gates and Milestones: governance/review-gates-and-milestones.md
+      - Baseline Approval: governance/baseline-approval.md
+      - Metrics and Reporting: governance/metrics-and-reporting.md
+      - Engineering Management Interfaces: governance/engineering-management-interfaces.md
+
+  - Artifacts and Templates:
+      - Artifact Landscape: artifacts/artifact-landscape.md
+      - ConOps Template: artifacts/conops-template.md
+      - Stakeholder Needs Template: artifacts/stakeholder-needs-template.md
+      - System Requirements Specification Template: artifacts/system-requirements-specification-template.md
+      - System Architecture Document Template: artifacts/system-architecture-document-template.md
+      - Interface Control Document Template: artifacts/interface-control-document-template.md
+      - Verification Plan Template: artifacts/verification-plan-template.md
+      - Validation Plan Template: artifacts/validation-plan-template.md
+      - Risk Register Template: artifacts/risk-register-template.md
+      - Decision Record Template: artifacts/decision-record-template.md
+      - Change Request Template: artifacts/change-request-template.md
+      - Review Package Template: artifacts/review-package-template.md
+
+  - Case Study:
+      - Overview: case-study/overview.md
+      - Mission Context: case-study/mission-context.md
+      - Stakeholders: case-study/stakeholders.md
+      - Concept of Operations: case-study/conops.md
+      - Requirements Baseline: case-study/requirements-baseline.md
+      - Architecture Baseline: case-study/architecture-baseline.md
+      - Interface Definition: case-study/interface-definition.md
+      - Trade Studies: case-study/trade-studies.md
+      - Risk Register: case-study/risk-register.md
+      - Integration Strategy: case-study/integration-strategy.md
+      - Verification Strategy: case-study/verification-strategy.md
+      - Validation Scenarios: case-study/validation-scenarios.md
+      - Change History: case-study/change-history.md
+      - Lessons Learned: case-study/lessons-learned.md
+      - Final System View: case-study/final-system-view.md
+
+  - Reference:
+      - Glossary: reference/glossary.md
+      - Acronyms: reference/acronyms.md
+      - Notation: reference/notation.md
+      - Bibliography: reference/bibliography.md
+      - Standards and Guides: reference/standards-and-guides.md
+
+  - Appendix:
+      - Review Checklists: appendix/review-checklists.md
+      - Requirements Checklist: appendix/requirements-checklist.md
+      - Architecture Checklist: appendix/architecture-checklist.md
+      - V&V Checklist: appendix/vv-checklist.md
+      - Risk Checklist: appendix/risk-checklist.md
+      - Document Style Guide: appendix/document-style-guide.md
