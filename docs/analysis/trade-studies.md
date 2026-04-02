@@ -59,5 +59,5 @@ Trade studies:
 
 ## Related Pages
 
-- `analysis/decision-analysis.md`
-- `case-study/trade-studies.md`
+- [Decision Analysis](../analysis/decision-analysis.md)
+- [Trade Studies (Case Study)](../case-study/trade-studies.md)

@@ -92,7 +92,7 @@ Because the handbook is implemented in MkDocs and maintained in GitHub, it is al
 
 ## Related Sections
 
-- `preface/how-to-use-this-site.md`
-- `discipline/what-is-systems-engineering.md`
-- `lifecycle/lifecycle-overview.md`
-- `case-study/overview.md`
+- [How to Use This Site](how-to-use-this-site.md)
+- [What is Systems Engineering](../discipline/what-is-systems-engineering.md)
+- [Lifecycle Overview](../lifecycle/lifecycle-overview.md)
+- [Case Study Overview](../case-study/overview.md)

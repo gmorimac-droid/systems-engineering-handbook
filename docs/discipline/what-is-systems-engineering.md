@@ -65,8 +65,8 @@ These questions connect engineering intent to lifecycle accountability.
 
 The AIIDS case study illustrates this perspective clearly. The system is not only a drone airframe. It includes sensing payloads, communication links, operators, mission planning logic, maintenance concerns, operating procedures, and environmental assumptions. A systems engineering view is necessary because system performance depends on the interaction of all these elements.
 
-## Related Sections
+## Related Pages
 
-- `discipline/systems-thinking.md`
-- `lifecycle/lifecycle-overview.md`
-- `case-study/overview.md`
+- [Systems Thinking](../discipline/systems-thinking.md)
+- [Lifecycle Overview](../lifecycle/lifecycle-overview.md)
+- [Case Study Overview](../case-study/overview.md)

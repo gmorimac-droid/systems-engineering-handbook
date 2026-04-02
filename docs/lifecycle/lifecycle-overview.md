@@ -64,9 +64,9 @@ A lifecycle-aware repository should therefore link artifacts to time as well as 
 
 For the AIIDS case study, lifecycle thinking is especially important because operational success depends not only on flight capability, but also on mission planning, communications, operator workflow, inspection data handling, maintenance cycles, and environment-driven constraints. Design decisions that optimize only the airborne platform would therefore be insufficient.
 
-## Related Sections
+## Related Pages
 
-- `lifecycle/mission-concept-and-need.md`
-- `requirements/concept-of-operations.md`
-- `configuration/baselines.md`
-- `case-study/mission-context.md`
+- [Mission, Concept and Need](../lifecycle/mission-concept-and-need.md)
+- [Concept of Operations](../requirements/concept-of-operations.md)
+- [Baselines](../configuration/baselines.md)
+- [Mission Context](../case-study/mission-context.md)

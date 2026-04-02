@@ -24,33 +24,33 @@ If your objective is practical application, use the **Case Study** section and f
 
 For a first reading, the recommended sequence is:
 
-1. `preface/purpose-of-this-handbook.md`
-2. `discipline/what-is-systems-engineering.md`
-3. `lifecycle/lifecycle-overview.md`
-4. `requirements/requirements-engineering-overview.md`
-5. `architecture/architecture-principles.md`
-6. `case-study/overview.md`
+1. [Purpose of This Handbook](purpose-of-this-handbook.md)
+2. [What is Systems Engineering](../discipline/what-is-systems-engineering.md)
+3. [Lifecycle Overview](../lifecycle/lifecycle-overview.md)
+4. [Requirements Engineering Overview](../requirements/requirements-engineering-overview.md)
+5. [Architecture Principles](../architecture/architecture-principles.md)
+6. [Case Study Overview](../case-study/overview.md)
 
 ### Project Framework Path
 
 For readers building a project structure, the recommended sequence is:
 
-1. `artifacts/artifact-landscape.md`
-2. `configuration/baselines.md`
-3. `governance/review-gates-and-milestones.md`
-4. `vv/verification-strategy.md`
-5. `risk/risk-management-framework.md`
+1. [Artifact Landscape](../artifacts/artifact-landscape.md)
+2. [Baselines](../configuration/baselines.md)
+3. [Review Gates and Milestones](../governance/review-gates-and-milestones.md)
+4. [Verification Strategy](../vv/verification-strategy.md)
+5. [Risk Management Framework](../risk/risk-management-framework.md)
 
 ### Case-Study Path
 
 For readers focused on application, the recommended sequence is:
 
-1. `case-study/overview.md`
-2. `case-study/mission-context.md`
-3. `case-study/stakeholders.md`
-4. `case-study/conops.md`
-5. `case-study/requirements-baseline.md`
-6. `case-study/architecture-baseline.md`
+1. [Case Study Overview](../case-study/overview.md)
+2. [Mission Context](../case-study/mission-context.md)
+3. [Stakeholders](../case-study/stakeholders.md)
+4. [Concept of Operations](../case-study/conops.md)
+5. [Requirements Baseline](../case-study/requirements-baseline.md)
+6. [Architecture Baseline](../case-study/architecture-baseline.md)
 
 ## How to Read Individual Pages
 
@@ -80,8 +80,8 @@ Cross-links are a key part of the handbook's architecture. A page about requirem
 
 The repository is designed to evolve over time. New pages may deepen the case study, add diagrams, expand MBSE content, introduce additional artifacts, or refine governance models. Readers using the site for real projects should therefore treat the repository as a living baseline, not as a static publication.
 
-## Related Sections
+## Related Pages
 
-- `preface/intended-audience.md`
-- `discipline/what-is-systems-engineering.md`
-- `case-study/overview.md`
+- [Intended Audience](intended-audience.md)
+- [What is Systems Engineering](../discipline/what-is-systems-engineering.md)
+- [Case Study Overview](../case-study/overview.md)

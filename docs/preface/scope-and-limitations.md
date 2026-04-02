@@ -39,8 +39,8 @@ The content should be used as:
 
 It should not be used uncritically as a complete substitute for project tailoring, formal standards interpretation, or contractual engineering obligations.
 
-## Related Sections
+## Related Pages
 
-- `preface/purpose-of-this-handbook.md`
-- `reference/standards-and-guides.md`
-- `case-study/overview.md`
+- [Purpose of This Handbook](../preface/purpose-of-this-handbook.md)
+- [Standards and Guides](../reference/standards-and-guides.md)
+- [Case Study Overview](../case-study/overview.md)

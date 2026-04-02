@@ -63,8 +63,8 @@ The identifier should reveal at least the system context and the requirement cla
 
 Assumptions and constraints should be stated explicitly and not embedded implicitly in prose. If a statement materially affects architecture, verification, cost, safety, or operations, it should be represented in a form that can be reviewed and traced.
 
-## Related Sections
+## Related Pages
 
-- `reference/glossary.md`
-- `requirements/requirements-writing-guidelines.md`
-- `artifacts/system-requirements-specification-template.md`
+- [Glossary](../reference/glossary.md)
+- [Requirements Writing Guidelines](../requirements/requirements-writing-guidelines.md)
+- [System Requirements Specification Template](../artifacts/system-requirements-specification-template.md)

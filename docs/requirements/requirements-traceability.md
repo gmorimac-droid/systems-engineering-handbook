@@ -18,6 +18,7 @@ Traceability links stakeholder needs, system requirements, architecture elements
 - supports verification planning
 
 ## Related Pages
-- `architecture/allocation-of-functions-to-elements.md`
-- `vv/verification-cross-reference-matrix.md`
-- `case-study/requirements-baseline.md`
+
+- [Allocation of Functions to Elements](../architecture/allocation-of-functions-to-elements.md)
+- [Verification Cross Reference Matrix](../vv/verification-cross-reference-matrix.md)
+- [Requirements Baseline](../case-study/requirements-baseline.md)

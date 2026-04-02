@@ -45,31 +45,31 @@ The handbook assumes a general familiarity with engineering work and technical p
 
 Start with:
 
-1. `discipline/what-is-systems-engineering.md`
-2. `discipline/systems-thinking.md`
-3. `lifecycle/lifecycle-overview.md`
-4. `requirements/requirements-engineering-overview.md`
-5. `architecture/architecture-principles.md`
-6. `case-study/overview.md`
+1. [What is Systems Engineering](../discipline/what-is-systems-engineering.md)
+2. [Systems Thinking](../discipline/systems-thinking.md)
+3. [Lifecycle Overview](../lifecycle/lifecycle-overview.md)
+4. [Requirements Engineering Overview](../requirements/requirements-engineering-overview.md)
+5. [Architecture Principles](../architecture/architecture-principles.md)
+6. [Case Study Overview](../case-study/overview.md)
 
 ### If You Need a Project Framework
 
 Start with:
 
-1. `artifacts/artifact-landscape.md`
-2. `governance/decision-governance.md`
-3. `configuration/baselines.md`
-4. `vv/verification-cross-reference-matrix.md`
-5. `case-study/requirements-baseline.md`
+1. [Artifact Landscape](../artifacts/artifact-landscape.md)
+2. [Decision Governance](../governance/decision-governance.md)
+3. [Baselines](../configuration/baselines.md)
+4. [Verification Cross Reference Matrix](../vv/verification-cross-reference-matrix.md)
+5. [Requirements Baseline](../case-study/requirements-baseline.md)
 
 ### If You Need to Build Documentation
 
 Start with:
 
-1. `preface/conventions-and-notation.md`
-2. `appendix/document-style-guide.md`
-3. `artifacts/`
-4. `reference/glossary.md`
+1. [Conventions and Notation](conventions-and-notation.md)
+2. [Document Style Guide](../appendix/document-style-guide.md)
+3. Artifacts Section (../artifacts/)
+4. [Glossary](../reference/glossary.md)
 
 ## Limits of Audience Coverage
 
@@ -77,6 +77,6 @@ No single handbook can fully satisfy every possible role. Some readers will requ
 
 ## Related Sections
 
-- `preface/purpose-of-this-handbook.md`
-- `preface/how-to-use-this-site.md`
-- `reference/glossary.md`
+- [Purpose of This Handbook](purpose-of-this-handbook.md)
+- [How to Use This Site](how-to-use-this-site.md)
+- [Glossary](../reference/glossary.md)

@@ -51,9 +51,9 @@ Architecture is most visible during system definition and development, but its i
 
 For the AIIDS case study, architecture must extend beyond the airborne vehicle. The system includes the drone platform, onboard payloads, communication link, ground control station, operator interaction, data management flow, and supporting maintenance context. The architecture must therefore express both technical structure and mission relevance.
 
-## Related Sections
+## Related Pages
 
-- `architecture/system-context.md`
-- `architecture/logical-architecture.md`
-- `architecture/interface-architecture.md`
-- `case-study/architecture-baseline.md`
+- [System Context](../architecture/system-context.md)
+- [Logical Architecture](../architecture/logical-architecture.md)
+- [Interface Architecture](../architecture/interface-architecture.md)
+- [Architecture Baseline](../case-study/architecture-baseline.md)
